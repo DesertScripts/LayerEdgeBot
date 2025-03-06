@@ -19,7 +19,7 @@
 
 # Installation+Run💨
 ```shell
-git clone https://github.com/DesertScripts/LayerEdgeBot.py
+git clone https://github.com/DesertScripts/LayerEdgeBot
 cd LayerEdgeBot
 run.bat
 ```
