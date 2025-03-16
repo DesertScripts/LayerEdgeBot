@@ -1,5 +1,5 @@
 # LayerEdge auto-farm bot👾
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/+9j5RcKMfT5s4M2Q0)
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/+pB6j65Kv7cdjZmU0)
 
 # Recommendations before use:
 ## ❗❗USE PYTHON 3.10❗❗
